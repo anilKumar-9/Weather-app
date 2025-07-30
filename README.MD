@@ -1,3 +1,5 @@
+# live : https://weather-climateapp-javascript.netlify.app/
+
 # 🌤️ Weather Temperature App
 
 A simple and responsive weather application built using **HTML**, **CSS**, and **JavaScript**. It allows users to search for any city and displays the current temperature along with weather conditions using real-time API data.
